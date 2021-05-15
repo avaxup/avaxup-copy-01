@@ -104,7 +104,9 @@ sections:
     title: Latest Posts
 seo:
   title: Avaxup
-  description: The preview of the Azimuth theme
+  description: >-
+    Avaxup is a multi-chain boosting platform that enables you to vote for the
+    coming project and invest in, earlier.
   extra:
     - name: 'og:type'
       value: website
