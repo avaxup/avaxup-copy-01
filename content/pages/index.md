@@ -128,7 +128,9 @@ seo:
     - name: 'twitter:title'
       value: Avaxup
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Avaxup is a multi-chain boosting platform that enables you to vote for
+        the coming project and invest in, earlier.
     - name: 'twitter:image'
       value: /images/avaxup-seo-4x.png
       relativeUrl: true
