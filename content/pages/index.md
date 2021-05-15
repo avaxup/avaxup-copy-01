@@ -103,30 +103,36 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: Avaxup
+  description: >-
+    Avaxup is a multi-chain boosting platform that enables you to vote for the
+    coming project and invest in, earlier.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Avaxup
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Avaxup is a multi-chain boosting platform that enables you to vote for
+        the coming project and invest in, earlier.
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/avaxup-seo-4x.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Avaxup
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Avaxup is a multi-chain boosting platform that enables you to vote for
+        the coming project and invest in, earlier.
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/avaxup-seo-4x.png
       relativeUrl: true
 layout: landing
 ---
