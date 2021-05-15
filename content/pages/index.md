@@ -115,7 +115,9 @@ seo:
       value: Avaxup
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Avaxup is a multi-chain boosting platform that enables you to vote for
+        the coming project and invest in, earlier.
       keyName: property
     - name: 'og:image'
       value: /images/avaxup-seo-4x.png
